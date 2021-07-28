@@ -1,4 +1,4 @@
-//here we export the function process with the defined parameters and define acrtion object PROCESS, which will reurn the same parameters as the payload.
+//here we export the function process with the defined parameters and define action object PROCESS, which will return the same parameters as the payload.
 export const process = (encrypt, text, cypher) => {
     return {
         type: "Process",

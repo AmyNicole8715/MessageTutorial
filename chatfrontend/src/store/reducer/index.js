@@ -1,7 +1,7 @@
 //import the reducers
 
-import { ProcessReducer } from "./process";
-import {combineReducers } from "redux";
+import { ProcessReducer } from './process';
+import {combineReducers } from 'redux';
 
 //define the object and call the action
 
